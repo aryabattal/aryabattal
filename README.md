@@ -26,7 +26,8 @@ help with deepening my expertise in microservices architecture and scaling appli
 C#, ASP.NET Core, React, Node.js, Sitecore migrations, and building CI/CD pipelines on GCP.
 
 ## 📫 How to reach me:
-LinkedIn or via email at your.email@example.com (replace with your actual contact).
+<p align="center">
+ <a href="https://www.linkedin.com/in/arya-battal-773642207/">LinkedIn💻</a>or via  <a href="mailto:arya-battal@hotmail.com">my Email📫 </a> 
 
 ## ⚡ Fun fact: 
 I once taught programming at a vocational college in Syria for three years, helping students build real projects.
