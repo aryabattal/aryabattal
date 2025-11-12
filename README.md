@@ -29,7 +29,7 @@ C#, ASP.NET Core, React, Node.js, Sitecore migrations, and building CI/CD pipeli
 <a href="https://www.linkedin.com/in/arya-battal-773642207/">LinkedIn💻</a>or via  <a href="mailto:arya-battal@hotmail.com">my Email📫 </a> 
 
 ## ⚡ Fun fact: 
-I once taught programming at a vocational college in Syria for three years, helping students build real projects.
+At the age of 20, I taught programming at a vocational college in Syria for three years, guiding students in building real-world projects.
 
 ---
 
