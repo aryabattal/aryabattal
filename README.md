@@ -35,19 +35,20 @@ At the age of 20, I taught programming at a vocational college in Syria for thre
 
 ## 🛠️ Tech Stack
 
-<img width="935" height="981" alt="tech-stack" src="https://github.com/user-attachments/assets/7dd0d06e-f5a8-4a50-aec7-a65b83207309" />
+<img width="935" height="981" alt="511336769-7dd0d06e-f5a8-4a50-aec7-a65b83207309" src="https://github.com/user-attachments/assets/25ccc674-52f1-4d9b-9a30-67b89966c206" />
+
 
 
 ---
 
 ## 📊 GitHub Stats
- ⭐ Stats Card
-<a href="https://github-readme-stats.vercel.app/api?username=aryabattal&show_icons=true&theme=tokyonight">
+  ## ⭐ Stats Card
+https://github-readme-stats.vercel.app/api?username=aryabattal&show_icons=true&theme=tokyonight
 
-⭐ Top Languages
+  ## ⭐ Top Languages
 [https://github-readme-stats.vercel.app/api/top-langs/?username=aryabattal&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabattal&layout=compact&theme=tokyonight
 )
 
 
-⭐ Streak Stats
-<a href="https://streak-stats.demolab.com?user=aryabattal&theme=tokyonight">
+ ## ⭐ Streak Stats
+https://streak-stats.demolab.com?user=aryabattal&theme=tokyonight
