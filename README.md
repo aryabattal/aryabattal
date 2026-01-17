@@ -1,7 +1,7 @@
-
-<img width="1024" height="597" alt="developer" src="https://github.com/user-attachments/assets/80132768-0a00-48e7-af4b-e1ff03a50e69" />
-<img width="956" height="196" alt="Skärmbild 2025-11-07 140625" src="https://github.com/user-attachments/assets/2055d920-e788-4510-8e11-fd6b26f38397" />
-
+<>
+<img width="1024" height="597" alt="Developer" src="https://github.com/user-attachments/assets/4d7c28b1-f2ae-4825-836e-6cea4de02517" />
+<img width="956" height="196" alt="hi-i-am-arya" src="https://github.com/user-attachments/assets/cc7a280b-e102-4321-89c8-09d55e7d2035" />
+</>
 ---
 
 I'm a passionate software developer with a background in **.NET, JavaScript, and cloud-native solutions**.  
