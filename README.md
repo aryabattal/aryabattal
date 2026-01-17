@@ -41,6 +41,13 @@ At the age of 20, I taught programming at a vocational college in Syria for thre
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryabattal&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryabattal&layout=compact&theme=transparent)
+ ⭐ Stats Card
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryabattal&show_icons=true&theme=transparent)  ](https://github-readme-stats.vercel.app/api?username=aryabattal&show_icons=true&theme=tokyonight
+)
 
+⭐ Top Languages
+https://github-readme-stats.vercel.app/api/top-langs/?username=aryabattal&layout=compact&theme=tokyonight
+
+
+⭐ Streak Stats
+https://streak-stats.demolab.com?user=aryabattal&theme=tokyonight
